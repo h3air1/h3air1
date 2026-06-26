@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm h3air1 👋</h1>
+<h1 align="center">Hi, I'm Mansur Sulumov (h3air1) 👋</h1>
 <h3 align="center">Web Application Penetration Tester · CTF Player · Security Researcher</h3>
 
 <p align="center">

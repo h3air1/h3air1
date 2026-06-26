@@ -1,44 +1,67 @@
-# 👋 Hi, I'm h3air1
+<h1 align="center">Hi, I'm h3air1 👋</h1>
+<h3 align="center">Web Application Penetration Tester · CTF Player · Security Researcher</h3>
 
-**Junior Penetration Tester | CTF Player | Backdoor Developer**
----
-
-### 🚀 About Me
-
-Cybersecurity enthusiast focused on **Offensive Security**. Most of the time spent practicing **Penetration Testing** on platforms like **PortSwigger**, **HackTheBox**, and **TryHackMe**, learning how to find and exploit vulnerabilities in web apps and networks.
-
-Deep interest in the human side of security. Studying **Social Engineering**, specifically how **phishing** and **psychological manipulation** can be used to bypass technical defenses. Also developing custom **backdoors in C** to better understand persistence and post-exploitation.
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20App%20Pentesting-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Security%20Researcher-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Team-HackerLab-black?style=flat-square" />
+</p>
 
 ---
 
-### 🛡️ Skills & Expertise
+### 🛡️ About me
 
-#### 🔥 Offensive Security
-* **Penetration Testing**: Learning to assess Web, API, and Network security.
-* **Social Engineering**: Focused on phishing techniques and understanding human psychology to test security awareness.
-* **Backdoor Development**: Writing simple, effective persistent tools in **C**.
-* **CTF Player**: Actively solving challenges to improve hands-on hacking skills.
+Security researcher focused on **web application penetration testing**. I break web apps to understand how they fail — and how to fix them. Active CTF player, always learning, always hunting bugs.
 
----
-
-### 🧰 Tech Stack & Tools
-
-**Languages & Scripting:**
-C · Python · Bash · PowerShell
-
-**Tools I Use:**
-Burp Suite · Nmap · Metasploit · Wireshark · SQLMap · Netcat
+- 🔭 Specializing in **web application security & penetration testing**
+- 🚩 CTF player with team **HackerLab**
+- 📜 Holder of the **ICIP** certification + multiple CTF achievement certificates
+- 🌱 Continuously sharpening skills in offensive security and exploit development
+- 💬 Ask me about **web pentesting, CTFs, and bug hunting**
 
 ---
 
-### 🔗 Connect With Me
-* **Telegram:** [@h3air1](https://t.me/h3air1)
-* **Team:** Member of **Team THREAT and FRIENDS**
-* **Latest Project:** [H3-DirFuzzer](https://github.com/h3air1/H3-DirFuzzer) — A directory discovery tool I'm working on.
+### 🏆 Achievements
+
+- 🥈 **2nd place — ITuCTF "Cyberpolygon"**
+- 🥉 **Top-3 finishes** at multiple CTF competitions (certified)
+- 📜 **ICIP** certified
+- 👥 Member of CTF team **HackerLab**
 
 ---
 
-### 📌 Notice
-⚠️ **Ethical Notice:** Everything I share is for educational and ethical hacking purposes only.
+### 🧰 Tech & Tooling
 
-💻 **Crafted by h3air1**
+<p>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLmap-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nmap-blue?style=flat-square" />
+</p>
+
+**Areas:** Web exploitation · SQLi · XSS · SSRF · Authentication bypass · Recon · Burp automation
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=h3air1&show_icons=true&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=h3air1&theme=dark&hide_border=true" height="165" />
+</p>
+
+---
+
+### 📫 Contact
+
+<p>
+  <a href="https://t.me/infosec95"><img src="https://img.shields.io/badge/Telegram-%40infosec95-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center"><i>"Try harder."</i></p>

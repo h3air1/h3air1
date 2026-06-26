@@ -24,6 +24,7 @@ Security researcher focused on **web application penetration testing**. I break 
 ### 🏆 Achievements
 
 - 🥈 **2nd place — ITuCTF "Cyberpolygon"**
+- 🏅 **Prize-winner — Russian Federation Cup in Information Security Systems Programming**
 - 🥉 **Top-3 finishes** at multiple CTF competitions (certified)
 - 📜 **ICIP** certified
 - 👥 Member of CTF team **HackerLab**

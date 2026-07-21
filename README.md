@@ -1,9 +1,9 @@
-<h1 align="center">Hi, I'm Mansur Sulumov (h3air1) 👋</h1>
-<h3 align="center">Web Application Penetration Tester · CTF Player · Security Researcher</h3>
+<h1 align="center">Mansur Sulumov (h3air1) — Ethical Hacker & Penetration Tester 👋</h1>
+<h3 align="center">Web Application Pentester · Boot2Root Enthusiast · CTF Player</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Web%20App%20Pentesting-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Role-Security%20Researcher-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Boot2Root%20%26%20Privilege%20Escalation-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Team-HackerLab-black?style=flat-square" />
 </p>
 
@@ -11,13 +11,15 @@
 
 ### 🛡️ About me
 
-Security researcher focused on **web application penetration testing**. I break web apps to understand how they fail — and how to fix them. Active CTF player, always learning, always hunting bugs.
+**Mansur Sulumov**, known online as **h3air1**, is an **ethical hacker and penetration tester** focused on web application security, Boot2Root labs, and privilege escalation. I break applications and systems to understand how they fail — and how to secure them. All of my security work is performed in authorized environments, CTF competitions, and legal training labs.
 
 - 🔭 Specializing in **web application security & penetration testing**
+- 🧩 Solving **Boot2Root** machines end to end: reconnaissance, initial access, post-exploitation, and privilege escalation
+- 🔐 Building hands-on experience with **privilege escalation** techniques in legal labs and CTF environments
 - 🚩 CTF player with team **HackerLab**
 - 📜 Holder of the **ICIP** certification + multiple CTF achievement certificates
 - 🌱 Continuously sharpening skills in offensive security and exploit development
-- 💬 Ask me about **web pentesting, CTFs, and bug hunting**
+- 💬 Ask me about **web pentesting, Boot2Root, CTFs, and bug hunting**
 
 ---
 
@@ -28,6 +30,13 @@ Security researcher focused on **web application penetration testing**. I break 
 - 🥉 **Top-3 finishes** at multiple CTF competitions (certified)
 - 📜 **ICIP** certified
 - 👥 Member of CTF team **HackerLab**
+
+---
+
+### 🔎 Selected work
+
+- 🛠️ [**H3-DirFuzzer**](https://github.com/h3air1/H3-DirFuzzer) — a multithreaded Python tool for discovering hidden web directories during authorized security assessments
+- 📝 [**AITU CTF Cyber Range 2026 write-up**](https://codeby.net/threads/aitu-ctf-cyber-range-2026.92931/) — a technical report on HackerLab's second-place finish, including XXE, IDOR, SSRF, and SSTI-to-RCE attack chains
 
 ---
 
@@ -44,7 +53,7 @@ Security researcher focused on **web application penetration testing**. I break 
   <img src="https://img.shields.io/badge/Nmap-blue?style=flat-square" />
 </p>
 
-**Areas:** Web exploitation · SQLi · XSS · SSRF · Authentication bypass · Recon · Burp automation
+**Areas:** Web exploitation · Boot2Root · Privilege escalation · Post-exploitation · SQLi · XSS · SSRF · Authentication bypass · Recon · Burp automation
 
 ---
 

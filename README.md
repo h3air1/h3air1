@@ -25,7 +25,7 @@
 
 ### 🏆 Achievements
 
-- 🥈 **2nd place — ITuCTF "Cyberpolygon"**
+- 🥈 **2nd place — AituCTF "Cyberpolygon"**
 - 🏅 **Prize-winner — Russian Federation Cup in Information Security Systems Programming**
 - 🥉 **Top-3 finishes** at multiple CTF competitions (certified)
 - 📜 **ICIP** certified
@@ -69,7 +69,7 @@
 ### 📫 Contact
 
 <p>
-  <a href="https://t.me/infosec95"><img src="https://img.shields.io/badge/Telegram-%40infosec95-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/channel_h3air1"><img src="https://img.shields.io/badge/Telegram-%40channel__h3air1-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
 </p>
 
 ---
